@@ -12,7 +12,7 @@ pip3 install gpiozero \
 sudo apt install -y python3-smbus i2c-tools \
 pip3 install adafruit-circuitpython-charlcd \
 sudo apt install -y python3-picamera2 python3-libcamera libcamera-apps \
-sudo apt install -y git \
+sudo apt install -y git
 
 ---
 
