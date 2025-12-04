@@ -2,7 +2,6 @@
 
 enable i2c
 
-
 sudo apt install -y python3 python3-dev python3-pip build essential libffi-dev libssl-dev
 python3 -m venv venv
 source venv/bin/activate
@@ -16,3 +15,6 @@ sudo apt install -y python3-picamera2 python3-libcamera libcamera-apps
 sudo apt install -y git
 
 source venv/bin/activate
+
+---
+ssh thomasgeorge2@thomasgeorge2.local
